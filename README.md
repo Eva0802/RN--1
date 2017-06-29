@@ -25,8 +25,6 @@
     * 目前找了一些资料学习了RN的事件分发机制与处理，但是由于View嵌套层级较深，而且根View已经加了PanResponse进行手势处理，
     通过事件分发来解决就比较麻烦。通过Redux对项目进行重构，当前通过Redux进行管理状态，解决了这个问题。
  
-####目前进度见图片：
+ 
+ 
 
-![](https://github.com/MIFind/react-native-OneLess/blob/master/image/ONE_112.gif)  
-
-####欢迎大家关注我的微信公共号：开发者米饭
